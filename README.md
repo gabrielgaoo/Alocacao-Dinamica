@@ -1,1 +1,1 @@
-# Ed1-ista_encadeada
+# Ed1-lista_encadeada

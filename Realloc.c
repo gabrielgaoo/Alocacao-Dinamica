@@ -39,4 +39,5 @@ void realoca(int TAM) {
     for (int i = 0; i < TAM; i++) {
       printf("Impressao: %d\n", p[i]);
     }
+  free(p);
 }

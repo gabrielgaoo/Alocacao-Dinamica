@@ -18,5 +18,6 @@ int main(void) {
       printf("Impressao: %d\n", p[i]);
     }
   }
+  free(p);
   return 0;
 }

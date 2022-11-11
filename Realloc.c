@@ -28,7 +28,7 @@ int main(void) {
 void realoca(int TAM) {
 
   int *p;
-  p = (int *)realloc(*p, TAM * sizeof(int));
+  p = (int *)realloc(*p, TAM * sizeof(int));// a função realloc faz a alteração no tamanho do espaço alocado de uma alocação já existente.
   if (p == NULL) {
     printf("Erro!\n");
   }

@@ -1,4 +1,4 @@
-# Alocacao Dinamica
+# Alocação Dinâmica
 <i><b>Principais conceitos</b></i>
 <p>
 <i> Malloc<i>
